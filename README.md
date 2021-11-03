@@ -1,7 +1,7 @@
 # ANGPT2_SingleCell
-Github repo : https://github.com/ssun1116/ImmuneResistance
-Single Cell Portal : https://singlecell.broadinstitute.org/single_cell/study/SCP109/melanoma-immunotherapy-resistance#study-download
-Paper : https://pubmed.ncbi.nlm.nih.gov/30388455/
+- Github repo : https://github.com/ssun1116/ImmuneResistance
+- Single Cell Portal : https://singlecell.broadinstitute.org/single_cell/study/SCP109/melanoma-immunotherapy-resistance#study-download
+- Paper : https://pubmed.ncbi.nlm.nih.gov/30388455/
 
 ## 1. Immune deconvolution
 
